@@ -15,9 +15,9 @@
     width: 0;
 }
 :root{
-    --back:#fff;
-    --back-2:#f0f0f0;
-    --text:#000;
+    --back:#000;
+    --back-2:#0f0f0f;
+    --text:#f0f0f0;
     --main:#0070f3;
     /* rgb(63 255 51) 
     #0ef*/
