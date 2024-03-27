@@ -1,45 +1,43 @@
 # portfolio
 # Vigneshwaran's Portfolio
 
-Welcome to my GitHub repository! I'm Vigneshwaraneem, and this is where I showcase my projects and contributions.
+Welcome to my GitHub repository! I'm Vigneshwaran, and this is where I showcase my projects and contributions.
 
 ## About Me
 - **Name:** Vigneshwaran
-- **Email:** vigneshwaraneem@gmail.com
+- **Email:** vigneshwaran.a288@gmail.com
 
 ## Projects
 
-**Project 1:** Basic Calculator (Java Swing - https://github.com/vigneshwaraneem/Calculator)
+**Project 1:** 2000 TRT Ladle
+•	Designed and implemented mechatronic control systems for a 2000 Kgs Teapot Refractory Treatment (TRT) ladle.
+•	Utilized 2D to 3D design techniques to develop comprehensive models for system visualization and analysis.
+•	Integrated sensors and actuators to automate ladle tilting and pouring processes, enhancing efficiency and safety.
 
-Engineered a calculator application using Java Swing. Implemented basic arithmetic operations and a history feature. Displayed adeptness in Java programming and crafting interactive GUI applications
-
-**Project 2:** Servlet Electricity Bill System (Java Servlet - https://github.com/vigneshwaraneem/EBSystem)
-
-The Servlet Electricity Bill System is a web-based application developed using Java Servlets within Eclipse. This system allows users to calculate and manage electricity bills efficiently.
-
-**Project 3:** Swing CRUD Application (Java Swing - https://github.com/vigneshwaraneem/Swing-crud)
-
-The Swing CRUD Application is a Java-based desktop application developed using the Swing library within NetBeans. It provides a user-friendly graphical interface for performing basic CRUD (Create, Read, Update, Delete) operations on a dataset.
+**Project 2:** 1000 Kgs TRT Ladle
+•	Applied mechatronics engineering principles to optimize the performance of a 1000 Kgs TRT ladle.
+•	Conducted detailed 2D to 3D design conversions to facilitate the development and testing of control systems.
+•	Implemented real-time monitoring and feedback mechanisms to ensure precise control over ladle operations.
 
 ## Skills
 
-• Core Java programming
+•	SolidWorks (Software).
+ 
+•	3D Modelling
 
-• HTML and CSS for web development
+•	2D Drawing
 
-• MySQL database management
+•	2D to 3D modelling
 
-• Problem-solving and analytical thinking
-
-• Object-oriented programming concepts
+•	Reverse Engineering 
 
 ## Contact
-Feel free to reach out to me via email: vigneshwaraneem@gmail.com
+Feel free to reach out to me via email: vigneshwaran.a288@gmail.com
 
-Connect with me on **LinkedIn** - https://www.linkedin.com/in/vigneshwaraneem
+Connect with me on **LinkedIn** - https://www.linkedin.com/in/vigneshwaran-ecosync
 
 Follow me on **X/Twitter** - https://twitter.com/vigneshwaraneem
 
 get connected in **Discord** https://discord.com/invite/TZVGhvts 
 
-Happy coding!
+Happy designing!
