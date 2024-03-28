@@ -256,10 +256,10 @@ section{
 .skill-cont .right .mechanical::before{
     width: 65%;
 }
-.skill-cont .right .2d-3d::before{
+.skill-cont .right .design2d-3d::before{
     width: 80%;
 }
-.skill-cont .right .2d::before{
+.skill-cont .right .drawing2d::before{
     width: 75%;
 }
 .skill-cont button{
