@@ -250,17 +250,17 @@ section{
     background-color: var(--main);
     transition: 2s ease;
 }
-.skill-cont .right .corejava::before{
-    width: 70%;
+.skill-cont .right .cad::before{
+    width: 60%;
 }
-.skill-cont .right .html::before{
-    width: 90%;
+.skill-cont .right .mechanical::before{
+    width: 65%;
 }
-.skill-cont .right .css::before{
-    width: 50%;
+.skill-cont .right .2d-3d::before{
+    width: 80%;
 }
-.skill-cont .right .mysql::before{
-    width: 50%;
+.skill-cont .right .2d::before{
+    width: 75%;
 }
 .skill-cont button{
     margin-left: 7px;
